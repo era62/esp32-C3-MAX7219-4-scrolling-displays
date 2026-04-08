@@ -6,7 +6,7 @@ to change the test via wifi.
 Mine creates an access point called "PUPAZZINO access point". To change the scrolling text is now very easy.
 
 1) Flash scroll3.bin using espwebtools or what do you like to use (push the flash switch connecting usb if required) and reset
-2) connect you phone to the access point (if your phone warns you about no internet connection and no key, go ahead)
+2) connect to the access point (if your phone warns you about no internet connection and no key, go ahead)
 3) type http://192.168.4.1 on your browser.
 4) put new text on the box and click "update display".
 
