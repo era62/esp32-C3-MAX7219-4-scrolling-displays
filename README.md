@@ -11,7 +11,11 @@ Mine creates an access point called "PUPAZZINO access point". change the scrolli
 4) put new text on the box and click "update display".
 
 connections:
+
 7219 DIN_PIN -----> ESP GPIO5;
+
 7219 CLK_PIN -----> ESP GPIO6;
+
 7219 CS_PIN  -----> ESP GPIO7.
+
 Have Fun. PUPAZZINO. Please follow me (pupazzino1) on Instagram.   
