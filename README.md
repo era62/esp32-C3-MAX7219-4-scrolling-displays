@@ -2,7 +2,7 @@
 
 I've found a lot of esp32 scrolling display firmware using md_parola lib. none was working on my no brand supermini esp32-c3!
 at least i've made it by myself using modding this one https://github.com/astatio/MAX7219-ESP32-C3-Marquee. it was working but it was not possible
-to change the test via wifi.
+to change the scrolling text via wifi.
 Mine creates an access point called "PUPAZZINO access point". To change the scrolling text is now very easy.
 
 1) Flash scroll3.bin using espwebtools or what do you like to use (push the flash switch connecting usb if required) and reset
