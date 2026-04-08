@@ -16,6 +16,10 @@ connections:
 
 7219 CLK_PIN -----> ESP GPIO6;
 
-7219 CS_PIN ------> ESP GPIO7.
+7219 CS_PIN ------> ESP GPIO7;
+
+7219 GND ---------> ESP GND;
+
+7219 VCC----------> ESP 5V.
 
 Have Fun. PUPAZZINO. Please follow me (pupazzino1) on Instagram.   
