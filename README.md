@@ -1,7 +1,7 @@
 # ESP32-C3-MAX7219-Scrolling-Text
 
 I've found a lot of esp32 scrolling text firmware using md_parola lib. none was working on my no brand supermini esp32-c3!
-at least i've made it by myself using modding this one https://github.com/astatio/MAX7219-ESP32-C3-Marquee. it was working but it was not possible
+at least i've made it by myself modding this one https://github.com/astatio/MAX7219-ESP32-C3-Marquee. it was working but it was not possible
 to change the scrolling text via wifi.
 My version create an access point called "PUPAZZINO access point". To change the scrolling text is now very easy.
 
