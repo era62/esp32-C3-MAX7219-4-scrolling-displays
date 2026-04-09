@@ -13,7 +13,7 @@ MAX 7219 4 digit 8x8 display
 
 Solder and/or jumper wires.
 
-Usb power supply.
+5v power supply (or simply connect the board to your computer).
 
 If you want to 3dprint a case you can look here https://www.printables.com/model/959767-max7219-led-matrix-box/files
 
