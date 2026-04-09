@@ -1,4 +1,4 @@
-# esp32-C3-MAX7219-4-scrolling-displays
+# ESP32-C3-MAX7219-4-scrolling-displays
 
 I've found a lot of esp32 scrolling display firmware using md_parola lib. none was working on my no brand supermini esp32-c3!
 at least i've made it by myself using modding this one https://github.com/astatio/MAX7219-ESP32-C3-Marquee. it was working but it was not possible
