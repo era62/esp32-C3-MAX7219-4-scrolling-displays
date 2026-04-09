@@ -6,10 +6,15 @@ to change the scrolling text via wifi.
 My version create an access point called "PUPAZZINO access point". To change the scrolling text is now very easy.
 
 You need:
+
 ESP32-c3 board
+
 MAX 7219 4 digit 8x8 display
+
 Solder and/or jumper wires.
+
 Usb power supply.
+
 If you want to 3dprint a case you can look here https://www.printables.com/model/959767-max7219-led-matrix-box/files
 
 1) Flash scroll3.bin using espwebtools or what do you like to use (push the flash switch connecting usb if required) and reset
